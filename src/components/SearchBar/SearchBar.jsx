@@ -7,7 +7,7 @@ import { Label } from './Label.styles';
 import { Input } from './Input.styles';
 
 SearchBar.propTypes = {
-    onSubmit:PropTypes.func.isRequired,
+  onSubmit:PropTypes.func.isRequired,
 };
 
 export default function SearchBar({ onSubmit }) {

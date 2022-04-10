@@ -15,6 +15,7 @@ export const ButtonSearch = styled.button`
   cursor: pointer;
   outline: none;
   background-color: hsl(240deg 6% 87%);
+
   &:hover {
     opacity: 1;
   }

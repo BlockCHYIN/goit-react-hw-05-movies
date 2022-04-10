@@ -6,7 +6,7 @@ const HomePage = lazy(() =>
   import('./views/HomePage' /* webpackChunkName: "home-page" */)
 );
 const MoviesPage = lazy(() =>
-  import('./views/MoviePage' /* webpackChunkName: "movies-page" */)
+  import('./views/MoviesPage' /* webpackChunkName: "movies-page" */)
 );
 const MovieDetailsPage = lazy(() =>
   import(

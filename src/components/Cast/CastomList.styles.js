@@ -1,4 +1,4 @@
-import styled from "@emotion/styled";
+import styled from '@emotion/styled';
 
 export const CastomList = styled.ul`
   max-width: calc(100vw - 70px);
